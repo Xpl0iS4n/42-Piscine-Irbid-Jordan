@@ -1,6 +1,6 @@
 # 42 Piscine – Irbid, Jordan
 
-This repo contains my complete journey through the **42 Piscine at 42 Irbid, Jordan**.  
+This repo contains my complete journey through the **42 Piscine at Irbid, Jordan**.  
 It includes all the projects, exercises, exams, rushes, modules, notes, and resources I worked on during the intensive program.  
 
 The goal of this repo is to:
